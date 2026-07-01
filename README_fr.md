@@ -1,38 +1,29 @@
 # Visualisation de Données Grafana
 
-## Langues
+**Langues:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Visualisation de Données Grafana](https://course-cover.labex.io/grafana-data-visualization.png?lang=fr)](https://labex.io/fr/courses/grafana-data-visualization)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/grafana-data-visualization)
+<p align="center">
+  <a href="https://labex.io/fr/courses/grafana-data-visualization">
+    <img src="https://course-cover.labex.io/grafana-data-visualization.png?lang=fr" alt="Visualisation de Données Grafana">
+  </a>
+</p>
 
 Apprenez la visualisation de données avec Grafana. Ce module couvre l'installation de Grafana, la création de votre premier tableau de bord, les différents types de visualisation, les variables de tableau de bord et l'alerte intégrée. Vous maîtriserez ces compétences essentielles sous Linux grâce à des laboratoires pratiques et des défis concrets.
 
-![devops-engineer](https://img.shields.io/badge/devops-engineer-whitesmoke?style=for-the-badge&logo=devops-engineer)
-![devops](https://img.shields.io/badge/devops-whitesmoke?style=for-the-badge&logo=devops)
-![linux](https://img.shields.io/badge/linux-whitesmoke?style=for-the-badge&logo=linux)
-
+[Commencer le cours sur LabEx](https://labex.io/fr/courses/grafana-data-visualization)
 
 ## Exercices
 
-|   Index | Nom                                    | Difficulté    | Pratique                                                                                                                                       |
-|---------|----------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🧩  Installation de Grafana             | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/installing-grafana-636585?course=grafana-data-visualization'>Commencer le Lab</a>            |
-|       2 | 🧩  Créer votre premier tableau de bord | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/creating-your-first-dashboard-636582?course=grafana-data-visualization'>Commencer le Lab</a> |
-|       3 | 🧩  Différents types de visualisation   | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/different-visualization-types-636584?course=grafana-data-visualization'>Commencer le Lab</a> |
-|       4 | 🧩  Variables de tableau de bord        | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/dashboard-variables-636583?course=grafana-data-visualization'>Commencer le Lab</a>           |
-|       5 | 🧩  Alertes intégrées                   | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/integrated-alerting-636586?course=grafana-data-visualization'>Commencer le Lab</a>           |
-|       6 | 🎯  Centre de contrôle opérationnel     | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/operational-control-center-636752?course=grafana-data-visualization'>Commencer le Défi</a>   |
+|   Index | Nom                                 | Difficulté    | Pratique                                                                                                                                       |
+|---------|-------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | Installation de Grafana             | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/installing-grafana-636585?course=grafana-data-visualization'>Commencer le lab</a>            |
+|       2 | Créer votre premier tableau de bord | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/creating-your-first-dashboard-636582?course=grafana-data-visualization'>Commencer le lab</a> |
+|       3 | Différents types de visualisation   | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/different-visualization-types-636584?course=grafana-data-visualization'>Commencer le lab</a> |
+|       4 | Variables de tableau de bord        | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/dashboard-variables-636583?course=grafana-data-visualization'>Commencer le lab</a>           |
+|       5 | Alertes intégrées                   | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/integrated-alerting-636586?course=grafana-data-visualization'>Commencer le lab</a>           |
+|       6 | Centre de contrôle opérationnel     | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/operational-control-center-636752?course=grafana-data-visualization'>Commencer le défi</a>   |
 
-## À propos de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-## Plus
-
-- 🔗 [DevOps Engineer Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Engineer Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Engineer Tutoriels Gratuits](https://github.com/labex-labs/devops-engineer-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
